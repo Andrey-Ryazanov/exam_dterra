@@ -1,0 +1,3 @@
+<?
+$MESS["COMPONENT_CURRENCY_NAME"] = "Курсы валют";
+$MESS["COMPONENT_CURRENCY_CATEGORY"] = "DTerra";
